@@ -114,3 +114,9 @@ These files can be opened in Wireshark (as text reference) or used for education
 ### Install Dependencies
 ```bash
 pip install pygame
+```
+## 👥 Contributors
+
+- **Tejas Abhang** – [GitHub](https://github.com/TejasAbhang77)
+- **Adnaan Momin** – [GitHub](https://github.com/Adnaan29)
+
