@@ -117,6 +117,5 @@ pip install pygame
 ```
 ## 👥 Contributors
 
-- **Tejas Abhang** – [GitHub](https://github.com/TejasAbhang77)
 - **Adnaan Momin** – [GitHub](https://github.com/Adnaan29)
-
+- **Tejas Abhang** – [GitHub](https://github.com/TejasAbhang77)
